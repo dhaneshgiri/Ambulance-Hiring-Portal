@@ -1,1 +1,1 @@
-# Ambulance-Hiring-Portal
+# The Emergency Ambulance Hiring Portal is a dynamic web-based application developed to provide immediate access to ambulance services during medical emergencies. The system allows users to locate, book, and track ambulances in real time, helping reduce response delays and improving coordination between patients and service providers
